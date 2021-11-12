@@ -11,11 +11,12 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
 
 <b>Project timeline</b>
 
-Day 1: Thinking where to start :D <br>
-Day 2:<br>
-Day 3:<br>
-Day 4:<br>
-Day 5: Presentation of the dashboard<br>
+Day 0: Setting up Tableau collaboration, GitHub repository, etc. Collaboration Techniques. 
+Day 1: Thinking where to start, initial data exploration and task split :D <br>
+Day 2: SQL cleaning & Tableau plotting <br>
+Day 3: SQL cleaning & Tableau plotting <br>
+Day 4: Presentation practicing <br>
+Day 5: Final touches and presentation of the dashboard<br>
 
 
 
